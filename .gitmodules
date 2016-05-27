@@ -1,0 +1,4 @@
+[submodule "Sub"]
+	path = Sub
+	url = D:/GitHubTesting/test-repo
+	branch = develop
